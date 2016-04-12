@@ -61,4 +61,4 @@ Session.vim
 *~
 
 ### Webstorm IDE ###
-./.idea
+.idea/
